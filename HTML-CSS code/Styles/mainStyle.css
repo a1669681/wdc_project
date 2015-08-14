@@ -1,0 +1,31 @@
+#outer-wrapper {
+   position: absolute;
+   top: 0px;
+   left: 0px;
+   width: 100%;
+}
+
+.body-wrapper{
+	top: 45px !important;
+}
+
+#page-topbar {
+     width: 100%;
+     background-color: #636363;
+     color: inherit;
+     padding-bottom: 0.5em;
+     padding-top: 0.5em;
+}
+
+header {
+color: white;
+}
+
+a {
+	color: white;
+}
+
+ #map-canvas {
+        width: 1000px;
+        height: 600px;
+      }
