@@ -8,10 +8,12 @@ Essential elements:
 - haven't start
   -	Facebook login API, get friend list, get location
   -	Search bar
-  -	Settings
+  -	Settings drop down
+  -	username drop down
+  -	friend/location filters
 
 Bonus elements:
-- friend/location filters
+
 
 Others:
 - theme
